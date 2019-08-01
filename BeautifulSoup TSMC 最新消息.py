@@ -46,7 +46,7 @@ from threading import Timer
 def printTime (inc) :
     
     #message = 'ttt' # 修改為你要傳送的訊息內容
-    token = 'CiCxIhvVem0QFKSFBbDmCWAdFmXWlVEaeR0BCMKlNjR' # 修改為你的權杖內容
+    token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' # 修改為你的權杖內容
     lineNotifyMessage(token, LatestNews(url))
     lineNotifyMessage(token, 'https://www.tsmc.com.tw/tsmcdotcom/PRListingNewsAction.do?language=C')
     print(datetime.now().strftime( "%Y-%m-%d %H:%M:%S" )) 
