@@ -20,6 +20,6 @@ def lineNotifyMessage(token, msg):
   # 修改為你要傳送的訊息內容
 message = 'Yo it works: lets try 台積點最新消息'
   # 修改為你的權杖內容
-token = 'CiCxIhvVem0QFKSFBbDmCWAdFmXWlVEaeR0BCMKlNjR'
+token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 lineNotifyMessage(token, message)
